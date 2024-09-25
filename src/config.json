@@ -1,0 +1,158 @@
+{
+  
+  "whoAreWe": {
+    "image": "https://via.placeholder.com/600",
+    "title": "Who are we",
+    "text": "We are a team of dedicated professionals committed to providing exceptional services. Our mission is to deliver high-quality solutions that meet and exceed our clients' expectations. We value integrity, excellence, and innovation in everything we do."
+
+  },
+  "aboutUs": {
+    "title": "Message from Head Teacher",
+    "text": "Welcome to our vibrant community! Together, let's embrace learning, celebrate diversity, and create a nurturing environment where every student flourishes. Your unique talents enrich our school. I'm excited to witness your growth and success. Let's embark on this incredible journey together! 🙏",
+    "chairmanName": "Mr.Deepak Kumar Budhathoki",
+    "chairmanTitle": "Headteacher"
+    },
+  "programs":[
+
+    {
+      "id": 1,
+      "title": "Diploma in Civil Engineering ",
+      "description": "Welcome to Gaumati Secondary School's Civil Engineering Department! Here, innovation meets exploration. We embrace challenges, nurture creativity, and build the future. Join us in shaping tomorrow's infrastructure. Your journey starts here, where every idea matters. Together, let's engineer a world of possibilities! .",
+      "image": "/src/assets/civil.JPG"
+    },
+    {
+      "id": 2,
+      "title": "Science",
+      "description": "Welcome to Gaumati Secondary School's Science Department! Here, discovery meets curiosity. We explore the mysteries of the universe, question the unknown, and unlock the secrets of nature. Join us in advancing the frontiers of knowledge. Your journey starts here, where every experiment leads to new possibilities. Together, let's ignite a passion for scientific inquiry!.",
+      "image": "/src/assets/science.JPG"
+    },
+    {
+      "id": 3,
+      "title": "Management",
+      "description": "Welcome to Gaumati Secondary School's Management Department! Here, leadership meets vision. We nurture future leaders, empower decision-makers, and cultivate entrepreneurial thinking. Join us in shaping the business world of tomorrow. Your journey starts here, where every idea can inspire growth. Together, let's lead with innovation and strategy!",
+      "image": "/src/assets/management.JPG"
+    },
+    {
+      "id": 4,
+      "title": "Humanities",
+      "description": "Welcome to Gaumati Secondary School's Humanities Department! Here, understanding meets expression. We delve into history, culture, and society, fostering empathy and broadening perspectives. Join us in exploring the human experience. Your journey starts here, where every story matters. Together, let's create a world of critical thinkers and compassionate leaders!",
+      "image": "/src/assets/humanities.JPG"
+    },{
+      "id": 5,
+      "title": "Education",
+      "description": "Welcome to Gaumati Secondary School's Education Department! Here, learning meets inspiration. We prepare future educators to shape minds and hearts, fostering a love for lifelong learning. Join us in making a lasting impact. Your journey starts here, where every lesson inspires change. Together, let's educate and empower the leaders of tomorrow!",
+      "image": "/src/assets/education.JPG"
+    }
+  ],
+  "News":[
+    {
+      "id": 1,
+      "title": "Article 1",
+      "description": "This is a brief description of the article.",
+      "image": "image-url-1",
+      "link": "https://example.com",
+      "content": "Full content of article 1"
+    },
+    {
+      "id": 2,
+      "title": "News Article 2",
+      "description": "This is the description for news article 2.",
+      "image": "https://via.placeholder.com/300",
+      "link": "https://example.com/article2"
+    },
+    {
+      "id": 3,
+      "title": "News Article 3",
+      "description": "This is the description for news article 3.",
+      "image": "https://via.placeholder.com/300",
+      "link": "https://example.com/article3"
+    }
+  ] ,
+  
+    "Gallery": [
+      {
+        "id": 1,
+        "image": "path/to/image1.jpg",
+        "title": "Image 1"
+      },
+      {
+        "id": 2,
+        "image": "path/to/image2.jpg",
+        "title": "Image 2"
+      },
+      {
+        "id": 3,
+        "image": "path/to/image3.jpg",
+        "title": "Image 3"
+      }  
+    ],
+      "Teacher": [
+        {
+          "id": 1,
+          "name": "John Doe",
+          "position": "Mathematics Teacher",
+          "image": "https://via.placeholder.com/150",
+          "address": "123 Main St, Springfield",
+          "contact": "555-1234"
+        },
+        {
+          "id": 2,
+          "name": "Jane Smith",
+          "position": "Science Teacher",
+          "image": "https://via.placeholder.com/150",
+          "address": "456 Elm St, Springfield",
+          "contact": "555-5678"
+        },
+        {
+          "id": 3,
+          "name": "Emily Johnson",
+          "position": "English Teacher",
+          "image": "https://via.placeholder.com/150",
+          "address": "789 Oak St, Springfield",
+          "contact": "555-9876"
+        },
+        {
+          "id": 4,
+          "name": "Michael Brown",
+          "position": "History Teacher",
+          "image": "https://via.placeholder.com/150",
+          "address": "321 Maple St, Springfield",
+          "contact": "555-6543"
+        },
+        {
+          "id": 5,
+          "name": "Sarah Davis",
+          "position": "Art Teacher",
+          "image": "https://via.placeholder.com/150",
+          "address": "654 Pine St, Springfield",
+          "contact": "555-4321"
+        },
+        {
+          "id": 6,
+          "name": "David Wilson",
+          "position": "Physical Education Teacher",
+          "image": "https://via.placeholder.com/150",
+          "address": "987 Cedar St, Springfield",
+          "contact": "555-6789"
+        },
+        {
+          "id": 7,
+          "name": "Laura Martinez",
+          "position": "Music Teacher",
+          "image": "https://via.placeholder.com/150",
+          "address": "246 Birch St, Springfield",
+          "contact": "555-2468"
+        },
+        {
+          "id": 8,
+          "name": "James Taylor",
+          "position": "Geography Teacher",
+          "image": "https://via.placeholder.com/150",
+          "address": "135 Walnut St, Springfield",
+          "contact": "555-1357"
+        }
+      ]
+    }
+    
+  
+
